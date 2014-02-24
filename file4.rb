@@ -1,1 +1,1 @@
-This is file4. I'M A CONFLICT!
+This is file4. OH NO MERGE CONFLICT!!!!
