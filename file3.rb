@@ -1,1 +1,1 @@
-This is file3. sdlfjdsljflksdjfklsdlj
+This is file3. Merging because chickens!
